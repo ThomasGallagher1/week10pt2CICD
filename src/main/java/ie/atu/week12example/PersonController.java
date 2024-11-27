@@ -1,4 +1,4 @@
-package ie.atu.week11example;
+package ie.atu.week12example;
 
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;

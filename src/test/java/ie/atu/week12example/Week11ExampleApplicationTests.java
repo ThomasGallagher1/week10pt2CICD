@@ -1,4 +1,4 @@
-package ie.atu.week11example;
+package ie.atu.week12example;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

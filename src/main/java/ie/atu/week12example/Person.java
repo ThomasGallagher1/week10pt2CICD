@@ -1,4 +1,4 @@
-package ie.atu.week11example;
+package ie.atu.week12example;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.Min;
